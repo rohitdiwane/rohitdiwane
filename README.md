@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Rohit. 
 - I am working as an AI Research Engineer. I have 3+ years of experience in the AI/ML domain.
 - I have completed a Ph.D. in AI/ML. Published the research paper in Scopus and international journals.
-  ### Research Gate: (https://www.researchgate.net/profile/Rohit-Diwane?ev=hdr_xprf),
-  ### Google Scholar: (https://scholar.google.com/citations?user=5twNShkAAAAJ&hl=en)
+  ##### Research Gate: (https://www.researchgate.net/profile/Rohit-Diwane?ev=hdr_xprf),
+  ##### Google Scholar: (https://scholar.google.com/citations?user=5twNShkAAAAJ&hl=en)
+  ##### Hugging face: (https://huggingface.co/rohitdiwane)
 - Mainly working on LLM fine-tuning, I used the PEFT technique - LoRA. For the training, I used an A100 machine on the AWS and GCP cloud platforms. 
 <!--
 **rohitdiwane/rohitdiwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
